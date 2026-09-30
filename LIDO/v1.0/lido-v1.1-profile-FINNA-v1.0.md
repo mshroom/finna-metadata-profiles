@@ -444,7 +444,7 @@ A wrapper for information about an actor and the role or activity performed by t
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -803,7 +803,7 @@ A wrapper for information about the event the object/work participated in or was
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -925,7 +925,7 @@ A set of display and index elements for an actor participating in or being prese
 
 **Additional Schematron rules**
 
-- -
+- –
 
 ### Examples
 
@@ -968,7 +968,7 @@ A wrapper for structured information about the date or range of dates the event 
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -983,7 +983,7 @@ A wrapper for structured information about the date or range of dates the event 
 
 **Divergence from LIDO**
 
-- -
+- –
 
 **Additional Schematron rules**
 
@@ -1182,7 +1182,7 @@ A set of display and index elements for an event the object/work participated in
 
 **Recording notes**
 
-- -
+- –
 
 **Divergence from LIDO**
 
@@ -1232,7 +1232,7 @@ An index element for the particular kind of event the object/work participated i
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -1286,7 +1286,7 @@ An index element specifying the part of the object/work to which the dimensions 
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -1647,7 +1647,7 @@ An index element for the kind of dimension, like height or width, or other measu
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -1713,7 +1713,7 @@ An index element for the unit of the measurements.
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -1783,7 +1783,7 @@ A set of display and index elements for dimensions, or other measurements, of th
 
 **Divergence from LIDO**
 
-- -
+- –
 
 **Additional Schematron rules**
 
@@ -1851,7 +1851,7 @@ A wrapper for information about the dimensions, or other measurements, of the ob
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -1863,7 +1863,7 @@ A wrapper for information about the dimensions, or other measurements, of the ob
 
 **Divergence from LIDO**
 
-- -
+- –
 
 **Additional Schematron rules**
 
@@ -1975,7 +1975,7 @@ A published identifier of the object or work in focus.
 
 **Additional Schematron rules**
 
-- -
+- –
 
 ### Examples
 
@@ -2007,7 +2007,7 @@ An index element for the particular kind of object or work in focus.
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -2375,7 +2375,7 @@ An index element qualifying the dimensions, or other measurements, of an object/
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -2494,7 +2494,7 @@ A set of elements identifying the source of information in this LIDO record, gen
 
 **Recording notes**
 
-- -
+- –
 
 **Divergence from LIDO**
 
@@ -2539,7 +2539,7 @@ A wrapper for display and reference elements of an object or work related to the
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -2624,7 +2624,7 @@ An index element for the kind of relationship between the object/work in focus a
 
 **Attributes**
 
-- -
+- –
 
 **Cardinality**
 
@@ -3186,7 +3186,7 @@ A set of display and index elements for the date or range of dates referred to b
 
 **Divergence from LIDO**
 
-- -
+- –
 
 **Additional Schematron rules**
 
@@ -3414,7 +3414,7 @@ A set of structured information about one or more titles or object names with so
 
 **Divergence from LIDO**
 
-- -
+- –
 
 **Additional Schematron rules**
 
