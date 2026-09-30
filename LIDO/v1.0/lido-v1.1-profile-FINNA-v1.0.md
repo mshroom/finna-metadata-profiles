@@ -1347,7 +1347,7 @@ A text element for a description of an inscription, including description identi
 
 **Recording notes**
 
-- If type attribute is in use, it should be one from the [terminology for type of inscription description](#Terminology-for-Type-of-InscriptionDescription).
+- If type attribute is in use, it should be one from the [terminology for type of inscription description](#terminology-for-Type-of-InscriptionDescription).
 - It is recommended to specify the language of the description by using the lang attribute of descriptiveNoteValue.
 
 **Divergence from LIDO**
@@ -1589,7 +1589,7 @@ A set of descriptive information about the object/work, including description id
 
 **Recording notes**
 
-- The value of the type attribute should be chosen from the [terminology for type of object description set](#Terminology-for-Type-of-ObjectDescriptionSet).
+- The value of the type attribute should be chosen from the [terminology for type of object description set](#terminology-for-Type-of-ObjectDescriptionSet).
 - It is recommended to specify the language of the description by using the lang attribute in descriptiveNoteValue.
 
 **Divergence from LIDO**
@@ -2847,7 +2847,7 @@ A text element for the description of the spatial, chronological, or contextual 
 
 **Recording notes**
 
-- Choose the type attribute from the [Terminology for type of resource description](#Terminology-for-Type-of-ResourceDescription)
+- Choose the type attribute from the [Terminology for type of resource description](#terminology-for-Type-of-ResourceDescription)
 - Element resourceDescription with type attribute "colour content" can be used for the colour content of the resource (e.g. black and white) if this differs from the colour content of the original object. For the colour content of the original object, use [termMaterialsTech](#termMaterialsTech) (within objectMaterialsTechSet/materialsTech).
 
 **Divergence from LIDO**
